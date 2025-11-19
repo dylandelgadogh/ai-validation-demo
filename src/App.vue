@@ -3,7 +3,7 @@
     <header class="bg-blue-900 text-white shadow-lg">
       <div class="container mx-auto px-4 py-6">
         <h1 class="text-3xl font-bold">Sistema de Registro de Requerimientos</h1>
-        <p class="text-blue-200 mt-2">Empresa de Seguros</p>
+        <p class="text-blue-200 mt-2">Interseguro</p>
       </div>
     </header>
 
